@@ -3,3 +3,5 @@ test 2 text file
 
 adding new files and practicing committing
 and checking git status of these files.
+
+CHANGES TO THE FILE ARE NEW AND IM READY TO MAKE A NEW COMMIT USING GIT.
