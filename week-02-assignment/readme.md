@@ -8,4 +8,29 @@ Haley Tatalovich 50
 
 4. I learned a little bit about the wildcard key and want to discuss that more as well as the license and what the purpose of that is. Also, I would like to futher my knowledge of the keys I can use for version control through the terminal application.
 
-5. I helped my fellow classmate understand the purposes and necessities for the multiple applications we will be using in this class and their differences.  
+5. I helped my fellow classmate understand the purposes and necessities for the multiple applications we will be using in this class and their differences.
+
+<h1> This is my first Header. </h1>
+<h2> This is my second Header. </h2>
+<h3> This is my third Header. </h3>
+
+This is an unordered list.
+- item 1
+- item 2
+- item 3
+
+This is an ordered list.
+1. item 1
+2. item 2
+3. item 3
+
+This is the URL: "https://www.youtube.com/watch?v=aJnfZi9IhyM"
+
+```
+
+function test(){
+    Blank line of code before function.;
+}
+
+```
+![Image of my editor](AtomScreenshot.jpg)
