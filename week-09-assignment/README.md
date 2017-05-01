@@ -1,5 +1,7 @@
-<!--  --> 341 week-06-assignment README.md
+<!--  --> 341 week-09-assignment README.md
 
-This week's assignment has been the most interesting to work with now that classes have been introduced. The different methods to add media to a webpage is such an great process to learn. In my homework assignment. By far the most interesting aspect to the media was the posterphoto addition to the video. It all makes sense especially when I look at Youtube videos who seem to have poster photos already.
+    This homework was extremely difficult. The drop down menu was the hardest part especially with the hidden elements. The excitement about now being able to style with css is great though!! I had a love hate relationship with this assignment because of the ability to use css and then the difficulty with drop down menus.
 
-Classes are still interesting to me and I don't know if I quite understand the abilities of it, other than the ability to keep code clean and organized. All of them were labeled with different names, and are those names referenced throughout the document by id or the class name. This is where I seem to be stumped. I didn't add audio to my webpage since I already had a lot of images and a video on loop. I didn't want the page to be overrun and chaotic, so I added different variables that bring variety and are sourced from my own files on my computer.
+    Something I am interested in doing for future assignments is having linked .html pages so the drop down menu does not have dead links. I am overly-excited about being able to start building a website for my art from scratch and experimenting with the new styling abilities that I've learned from this week.
+
+    Keeping track of all of my classes or id's to reference for styling was a challenge, so that's something organization-wise that I can improve on for next week.
