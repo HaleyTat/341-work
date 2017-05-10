@@ -1,160 +1,76 @@
 /*Style sheet for CSS code*/
 
+
 body {
-    background-color: rgb(255, 204, 179);
-}
 
-h1 {
-    font-size: 30px;
-    color: rgb(0, 0, 0);
+    background-color: rgb(210, 249, 230);
 
 }
 
-h2 {
-    text-align: justify;
-}
-
-aside.content-side {
-
-    margin-left: 25%;
+.art-header {
+    margin-top: 5%;
+    margin-left: 3%;
     margin-bottom: 5%;
-    padding: 0;
-    width: 50%;
+    margin-right: 5%;
+    padding: 1em;
+    background-color: rgb(255, 255, 255);
+
+}
+
+.image-within {
+
+    float: right;
+
+}
+
+
+.drop-button {
+
+    display: inline-block;
+    text-decoration: none;
+    padding-top: 1.5em;
+    padding-left: 1em;
+    padding-bottom: 1.5em;
+    padding-right: 1em;
     color: rgb(0, 0, 0);
-    background-color: rgb(255, 224, 102);
-    font-weight: bolder;
+    background-color: rgb(250, 250, 209);
 
 }
 
-aside .aside-head {
-
-    font-size: 30px;
-    text-align: justify;
-    margin: 10%;
-    padding: 1em;
-    background-color: rgb(255, 224, 102);
-
-}
-
-aside .aside-text {
-
-    padding: 1em;
-    margin: 1em;
-
-}
-
-header {
+li a, .drop-button {
+    display: block;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
     margin: 0;
-    padding: 0;
 
-}
-
-
-.pages-list {
-
-    background-color: rgb(255,255,255);
-    margin: 2%;
-    padding: 2%;
-    border-left: solid;
-    border-right: solid;
-    border-top: solid;
-
-}
-
-.drop-menu {
-
-    display: inline-block;
-    padding: 0.5em 1em;
-    padding-right: 2.5em;
-    text-align: justify;
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 224, 102)
-}
-
-.drop-menu2 {
-
-    display: inline-block;
-    padding: 0.5em 1em;
-    padding-right: 2.5em;
-    text-align: justify;
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 224, 102);
-
-}
-
-li a, .dropbutton {
-  display: block;
-  color: rgb(0, 0, 0);
-  text-decoration: none;
-  margin:0 40px 0;
-}
-
-
-
-li a:hover, .drop-menu:hover .dropbutton{
-  color: black;
-  margin: 0 40px 0;
-  background-color: rgb(255, 224, 102);
-}
-
-li.drop-menu {
-  display: inline-block;
 }
 
 .drop-content {
-  display: none;
-  position: absolute;
-  border: 1px solid;
-  margin: 0;
-  background-color: rgb(235, 218, 218);
-  z-index: 1;
+    display: none;
+    position: absolute;
+    border: 1px solid;
+    margin: 2%;
+    background-color: rgb(250, 250, 209);
+    z-index: 1;
+
+
 }
 
-.drop-menu:hover .drop-content {
-  display: block;
-}
-
-
-.pages-list3 {
-
-        display: inline-block;
-        padding: 0.5em 1em;
-        padding-right: 2.5em;
-        text-align: justify;
-        text-decoration: none;
-        color: rgb(0, 0, 0);
-        background-color: rgb(255, 224, 102);
-}
-
-.pages-list4{
+li.drop-menu {
 
     display: inline-block;
-    padding: 0.5em 1em;
-    padding-right: 2.5em;
-    text-align: justify;
-    text-decoration: none;
-    color: rgb(0, 0, 0);
-    background-color: rgb(255, 224, 102);
+}
+
+li a:hover, .drop-menu:hover, .drop-button:hover {
+
+    color: black;
+    margin: 0;
+    background-color: rgb(209, 236, 250);
 
 }
 
-.site-name {
+.drop-menu:hover .drop-content:hover {
 
-    float: left;
-    padding: 10px;
-    margin-left: 0.25em;
-    font-weight: lighter;
-    font-size;
-    color: rgb(255, 255, 255);
-
-}
-
-
-.art-info {
-    margin-top: 5%;
-    margin-left: 25%
-
+    display:block;
 
 }

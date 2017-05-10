@@ -1,16 +1,10 @@
-<!--  --> 341 Final Part 1 README.md
+<!--  --> 341 Final Part 2 README.md
 
-    This README is for my part one of my final project for MART341.
-I plan on programming a website that is more mobile-user friendly.
-I'm going to be using flex boxes and drop downs. I plan on this page
-being the rough draft of a future professional website that I
-can build from the ground up for my artwork.
-
-    I plan on having at least 3 different index.html links that
-will include images from my portfolio as well as some videos of
-my animation work. I plan on including a contact page, but I
-might need some help making sure that the inner-working mechanics
-of it work.
-
-    I'm going to try and see if I can include sliding down menus
-on the dropdown option. My color palette is inspired by another website from an architecture firm, which I will include the attachment in my repository.
+    In this README.md, I'm going to discuss my ideas for the next stage of my final project.
+I want to have the content drive my RWD, and my content will be various media, such as videos and photos.
+I want to use illustrations and other content that I have developed in other classes to build a professional
+-looking website. I have changed my color palette around a bit than what I originally planned. I want
+my site to look clean and easy to follow.
+    I plan on adding break points and continuing the design for my content according to mobile interface.
+All of my content I plan on adding will be media based, so it is going to be a lot trickier with the breakpoints
+and having it set up well for good RWD.
