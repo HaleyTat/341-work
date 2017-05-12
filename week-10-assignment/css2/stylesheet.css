@@ -105,11 +105,13 @@ li a, .dropdown {
 
 /*MAIN TEXT BOX*/
 
-/*.backdrop {
+.backdrop {
 
     background-color: rgb(255, 255, 255);
     margin-left: 2%;
     margin-right: 2%;
+    margin-top: 2%;
+    margin-bottom: 2%;
     min-width: 50%;
     min-height: 50%;
     color: rgb(0, 0, 0);
@@ -119,7 +121,7 @@ li a, .dropdown {
     border-bottom: solid;
 
 
-}*/
+}
 
 
 /*DISPLAYS CONTENT*/
@@ -140,4 +142,14 @@ li a, .dropdown {
   display: block;
   text-align: center;
   margin: 0;
+}
+
+
+.artgallery {
+
+    margin-left: 40%;
+    margin-right: 40%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+
 }
